@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Carol! /•᷅‎‎•᷄\੭✨
 
-<!--
-**carolbarrosm/carolbarrosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☆ Software development student (ADS)  
+☆ Working with Python, TypeScript, Node.js & SQL  
+☆ Learning through projects and hands-on practice  
+☆ Looking for opportunities to grow and gain experience as a developer
 
-Here are some ideas to get you started:
+### Technologies & Tools
+- Python  
+- TypeScript  
+- Node.js  
+- SQL  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Curious, motivated and always excited to keep learning.
