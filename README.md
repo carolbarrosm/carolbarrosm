@@ -1,4 +1,4 @@
-## Hey, I'm Carol! /•᷅‎‎•᷄\੭✨
+## Hey, I'm Carol! /•᷅‎‎•᷄\੭
 
 ☆ Software development student (ADS)  
 ☆ Working with Python, TypeScript, Node.js & SQL  
