@@ -11,5 +11,3 @@
 - Node.js  
 - SQL  
 - Git & GitHub  
-
-✨ Curious, motivated and always excited to keep learning.
